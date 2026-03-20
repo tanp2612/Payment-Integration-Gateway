@@ -1,1 +1,1 @@
-# GRIPpaymentIntegrationGateway
+Payment Integration Gateway
